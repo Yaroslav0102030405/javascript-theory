@@ -1,1 +1,7 @@
-# javascript-theory-
+# javascript-theory
+1 Є змінні const і let
+const age = 20
+let total = 40
+2 КОНСТАНТИ
+3 Перевірити тип данних у зміной то для цього використовують оператор typeOf console.log(typeOf total)
+4 Робота з числами. Конструктор Number() - питєається привести до числа Number.parseInt() - парсит целове число Number.parseFload() Метод toFixed(2) - в скобках передаете яку кількість символів ви хочете залишити після запятої Метод toLowerCase() - приведення до нижнього регістру Метод includes() - пошук підстрокі в встроке 
